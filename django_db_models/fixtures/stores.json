@@ -1,0 +1,5 @@
+[
+  {"model": "django_db_models.storemodel", "pk": 1, "fields": {"team_pk": 1, "name": "Trattoria Centrale", "city": "Roma", "created_at": "2026-09-01T09:00:00Z", "updated_at": "2026-09-01T09:00:00Z"}},
+  {"model": "django_db_models.storemodel", "pk": 2, "fields": {"team_pk": 1, "name": "Bistrot Navigli", "city": "Milano", "created_at": "2026-09-01T09:00:00Z", "updated_at": "2026-09-01T09:00:00Z"}},
+  {"model": "django_db_models.storemodel", "pk": 3, "fields": {"team_pk": 2, "name": "Market Lingotto", "city": "Torino", "created_at": "2026-09-01T09:00:00Z", "updated_at": "2026-09-01T09:00:00Z"}}
+]
